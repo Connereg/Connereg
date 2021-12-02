@@ -20,4 +20,5 @@ Medium Blog: https://medium.com/@darkadversaryaudio 🔗
 
 ## Email me!
 Connereg@optonline.net
+<br/>
 Thanks for visiting!

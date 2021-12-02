@@ -14,7 +14,9 @@ Backend - https://github.com/Connereg/transferre-v3 🔗 Frontend - https://gith
 'MTG Card Lockbox' Custom Card Creator and Sharing: https://github.com/Connereg/MTGCardLockbox 🔗
 
 ## Heres are some links to other resources I manage on the web 🕸️:
-LinkedIn: https://www.linkedin.com/in/conner-gleason/ 🔗 Medium Blog: https://medium.com/@darkadversaryaudio 🔗
+LinkedIn: https://www.linkedin.com/in/conner-gleason/ 🔗
+<br/>
+Medium Blog: https://medium.com/@darkadversaryaudio 🔗
 
 ## Email me!
 Connereg@optonline.net

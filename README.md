@@ -5,7 +5,7 @@ Hello! My name is Conner Gleason, and this is my personal github account for pro
 
 If you find my work interesting or would like to start a conversation with me please feel free to do so using the contact links below! I love collaboration and insight from others in the field and am always excited at the prospect of learning from experience! 😊
 
-Recent Projects 💾:
+## Recent Projects 💾:
 'Mashly' Video Masher App: https://github.com/Connereg/MashlyAppBackend 🔗
 
 'Transferre' Budgeting App:
@@ -13,7 +13,7 @@ Backend - https://github.com/Connereg/transferre-v3 🔗 Frontend - https://gith
 
 'MTG Card Lockbox' Custom Card Creator and Sharing: https://github.com/Connereg/MTGCardLockbox 🔗
 
-Heres are some links to other resources I manage on the web 🕸️:
+## Heres are some links to other resources I manage on the web 🕸️:
 LinkedIn: https://www.linkedin.com/in/conner-gleason/ 🔗 Medium Blog: https://medium.com/@darkadversaryaudio 🔗
 
 ## Email me!

@@ -9,7 +9,8 @@ If you find my work interesting or would like to start a conversation with me pl
 'Mashly' Video Masher App: https://github.com/Connereg/MashlyAppBackend 🔗
 
 'Transferre' Budgeting App (Work In Progress:
-Backend - https://github.com/Connereg/transferre-v3 🔗 Frontend - https://github.com/Connereg/transferre-v3-frontend 🔗
+Backend - https://github.com/Connereg/transferre-v3 🔗
+Frontend - https://github.com/Connereg/transferre-v3-frontend 🔗
 
 'MTG Card Lockbox' Custom Card Creator and Sharing: https://github.com/Connereg/MTGCardLockbox 🔗
 
